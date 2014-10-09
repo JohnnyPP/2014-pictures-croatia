@@ -292,6 +292,12 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>3</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>3</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -313,6 +319,12 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
@@ -336,6 +348,12 @@
      <rdf:li>colisa</rdf:li>
      <rdf:li>colisa</rdf:li>
      <rdf:li>levels</rdf:li>
+     <rdf:li>channelmixer</rdf:li>
+     <rdf:li>vignette</rdf:li>
+     <rdf:li>levels</rdf:li>
+     <rdf:li>tonecurve</rdf:li>
+     <rdf:li>tonecurve</rdf:li>
+     <rdf:li>vignette</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -358,6 +376,12 @@
      <rdf:li>000000000000000020856bbe</rdf:li>
      <rdf:li>6866e63eb047613e00000000</rdf:li>
      <rdf:li>4f169b3ec5b7033fda63423f00000000</rdf:li>
+     <rdf:li>0000000000000000000000000000803f00000000000000001002eb3e000000000000000000000000000000000000803f000000005037893e00000000000000000000000000000000000000000000803f305e3a3e</rdf:li>
+     <rdf:li>c3f56e4200004842000000bf000000bf50e3a5bd3033333e000000000000803f0000803f02000000</rdf:li>
+     <rdf:li>4f169b3ec5b7033fda63423f00000000</rdf:li>
+     <rdf:li>gz09eJxjYICAK26HbEH0pQ+/7BgYpO0LVM3tGRhS7BkGD7CH4AYoHnRgULqPBYiZoZgJCTNC5UE0ANjwCyY=</rdf:li>
+     <rdf:li>gz09eJxjYICArhufbBkYZtiGFAbYMzBE2++YFA2kM4C4AYoHHNhD8KBxDzoYlO5jBWJmKGZCwoxQeRANACDHDWk=</rdf:li>
+     <rdf:li>8fc23c4200004842000000bf000000bf50e3a5bd3033333e000000000000803f0000803f02000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -380,10 +404,22 @@
      <rdf:li>gz10eJxjZmBgkGAAgRNOIPK6rnYIA0HQYA/BI4sPAILJGok=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz09eJxjZmBgkGAAAREnELnxm1kImMvQ5sSAEzTYQ/DI4gMATOcbSw==</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz09eJxjZmBgkGAAgRmOIHLjN7MQMJehzYkBJ2iwh+CRxQcA4U4bzg==</rdf:li>
+     <rdf:li>gz08eJxjZmBgkGAAgUlOIPLLF7MQEH3mzB1HBpygwR6CRxYfADX9Hfc=</rdf:li>
+     <rdf:li>gz12eJxjZGBgkGAAgSlODESDBnsIHll8AJmWGNA=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -411,12 +447,18 @@
      <rdf:li>0</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>3</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -445,6 +487,12 @@
      <rdf:li/>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li>3</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>

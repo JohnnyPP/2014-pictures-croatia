@@ -326,6 +326,8 @@
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>3</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -360,6 +362,8 @@
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -410,6 +414,8 @@
      <rdf:li>monochrome</rdf:li>
      <rdf:li>bilat</rdf:li>
      <rdf:li>bilat</rdf:li>
+     <rdf:li>vignette</rdf:li>
+     <rdf:li>bloom</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -452,6 +458,8 @@
      <rdf:li>37bf053f082184bffeffbf3f5c8f423f</rdf:li>
      <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
      <rdf:li>00009e420000ae425a64db3f</rdf:li>
+     <rdf:li>48e1484200004842000000bf000000bf7068113e601283bc00000000cdcc4c3f0000803f00000000</rdf:li>
+     <rdf:li>000086420000484200002c42</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -494,10 +502,14 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz08eJxjZmBgkGAAgRNOLEBSd6pGCIh39kyPEwNO0GAPwSOLDwDO2xyv</rdf:li>
+     <rdf:li>gz12eJxjZGBgkGAAgTYnBqJBgz0Ejyw+AIm6GMI=</rdf:li>
+     <rdf:li>gz09eJxjZmBgkGAAgReOILKrWD0EzGXocGLACRrsIXhk8QFxdxtn</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -578,6 +590,8 @@
      <rdf:li>0</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -611,6 +625,8 @@
      <rdf:li>2</rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>

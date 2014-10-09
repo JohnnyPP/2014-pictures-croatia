@@ -108,7 +108,7 @@
    </darktable:mask_src>
    <darktable:colorlabels>
     <rdf:Seq>
-     <rdf:li>0</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:colorlabels>
    <darktable:history_modversion>

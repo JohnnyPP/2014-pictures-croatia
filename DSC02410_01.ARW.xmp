@@ -24,9 +24,9 @@
      <rdf:li>1411334202</rdf:li>
      <rdf:li>1411333980</rdf:li>
      <rdf:li>1411334248</rdf:li>
-     <rdf:li>1412894291</rdf:li>
-     <rdf:li>1412894293</rdf:li>
-     <rdf:li>1412894399</rdf:li>
+     <rdf:li>1412894542</rdf:li>
+     <rdf:li>1412894550</rdf:li>
+     <rdf:li>1412894540</rdf:li>
     </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
@@ -38,8 +38,8 @@
      <rdf:li>64</rdf:li>
      <rdf:li>4</rdf:li>
      <rdf:li>64</rdf:li>
-     <rdf:li>9</rdf:li>
      <rdf:li>12</rdf:li>
+     <rdf:li>9</rdf:li>
      <rdf:li>9</rdf:li>
     </rdf:Seq>
    </darktable:mask_type>
@@ -52,9 +52,9 @@
      <rdf:li>brush #6</rdf:li>
      <rdf:li>grp exposure </rdf:li>
      <rdf:li>brush #7</rdf:li>
-     <rdf:li>circle #8</rdf:li>
      <rdf:li>grp spot removal  </rdf:li>
      <rdf:li>circle #10</rdf:li>
+     <rdf:li>circle #8</rdf:li>
     </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
@@ -80,9 +80,9 @@
      <rdf:li>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</rdf:li>
      <rdf:li>513f1f545c3f1f54030000000000803f68401f545c3f1f540b0000000000803f</rdf:li>
      <rdf:li>gz03eJx91nlIVEEcB/DVt+/Ny7bI0ugws6S0Eisprcz5dSmSURrRSQcdYplaZlYYZRZdmloKlZ1shxm9t2vrqlGof3TRsUVRlmEHdojYHZoS1r75/TvTH8uX5ffZYd7szO+NdbsZXAvttG2JJwSvL6dzTimwKdpGvSNuTjY+JlM2jEz+Qj1MJlPZay+o89doZLQXOMZrtN/W7uAiGteG+6ow5JGN7n5D4Pl5nbbMVCG1w861jQEW2OdXQc2KBXpHOGhVpAX+eDi5Nr5ShbejnbQ5rhvsbqug1QEq0LV8O+uMClUZTvr7IpqzR1UYk823sfvR+uehTd/zf5t/De0JK9rsx3wbvVGFNV1OuiFFhUR3+m3GFM3XGPdekQrklpO6Lqvgo4vXwbCmZyo0NFWyZ5tWUMG1oZ8I3Lmu04M9VMj7bqNP6wh47uX/b6MeE/iWqdP6egJNh3S68y6BruU61wZdIzAgTGfjFUfpNKucgHU43wZa0T4qIzDQnVtKMHk2IBdtWz6BIve4M/cROCcY17AzPmvM1vzWmL3/jv9sfhloT+8kEOPOkiT8zrO+MVg7loDjFk8Sj+s9mkDKJY3WhBP46NBoYhCBXyf5tkc/tAWBBFLdmWfB5FmlRWF2WYfCjK1BEdqu62jn31fgk3sOpVcU4RzaDylwdJVGtx1XoFeaRjfnKOC/kG9/ZqI1jJEbkzF5tjUWa6nzMNdFiW3zWKwVT8ScPFJs3w/AWuFQzAl9xPadhLX87pjhf2ShbWzF2sFfmGEfxPblM6ztbcQMdYnt8xqs5dzGHFUltk9KsbbDhhl0VmxdhVjLOoY59IDY3tuGtcxdmIPTxfbOSqzFpspsH8QskNm+4NnacTLbZ1OnyJB1WKNRI2RYUcu3NwbJ7AwlDZPZ2enVV2ZniWerFbSre8rwwG0tf81CW/HVzPrDinYz6zdqs5n1H561v0Ab9t7M+k3oQ7Ow75RdRhtSiSb4jNheKEI79wSazlyxtW5HO3sPmvYMsT29Bm1cCpofS8W2ZDZav8Vo+k8X26IAtD4haHr7im1BN7SR3ri+TR7i9c39IbH3RUSnBFuSdfqmRYJ1OXy7/xXalW0S6022Ogla4/l3jfQECRqOOGhmkgSJ2lWaNkmC+K3895th7fUOusjuyX6T556TcZ8Q9V/j/uC/SWH3h64bRHh/MPq6YY1+bqTR343k2X+9Dwlh</rdf:li>
-     <rdf:li>d4b2f73ef4d8683fbb613d3c816da13b</rdf:li>
-     <rdf:li>530e3754550e3754030000000000803fbf0e3754550e37540b0000000000803f</rdf:li>
-     <rdf:li>da51f83e16fd543f9ba70b3c816da13b</rdf:li>
+     <rdf:li>4c0f37544e0f3754030000000000803f560f37544e0f37540b0000000000803f</rdf:li>
+     <rdf:li>6d34f73e04ac553f0eebfe3b816da13b</rdf:li>
+     <rdf:li>6d34f73efad9683f9ba70b3c816da13b</rdf:li>
     </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
@@ -94,8 +94,8 @@
      <rdf:li>196</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>54</rdf:li>
-     <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:mask_nb>
@@ -108,9 +108,9 @@
      <rdf:li>337f000003000000</rdf:li>
      <rdf:li>337f000070e64d08</rdf:li>
      <rdf:li>337f000001000000</rdf:li>
-     <rdf:li>0ea5003f3c6f663f</rdf:li>
-     <rdf:li>0000000074472e78</rdf:li>
-     <rdf:li>b6f3f93e221c4f3f</rdf:li>
+     <rdf:li>7c7f000080a9d258</rdf:li>
+     <rdf:li>6527fa3eb850503f</rdf:li>
+     <rdf:li>581bff3ef010673f</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
    <darktable:colorlabels>
@@ -132,9 +132,6 @@
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
@@ -159,9 +156,6 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
@@ -181,10 +175,7 @@
      <rdf:li>exposure</rdf:li>
      <rdf:li>exposure</rdf:li>
      <rdf:li>exposure</rdf:li>
-     <rdf:li>spots</rdf:li>
-     <rdf:li>bloom</rdf:li>
-     <rdf:li>spots</rdf:li>
-     <rdf:li>bloom</rdf:li>
+     <rdf:li>splittoning</rdf:li>
      <rdf:li>spots</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
@@ -205,11 +196,8 @@
      <rdf:li>5050fc3b2bb23d3f0000803f</rdf:li>
      <rdf:li>00000000000000000000803f</rdf:li>
      <rdf:li>5050fc3b2bb23d3f0000803f</rdf:li>
-     <rdf:li>gz25eJwL5jMPYRjBgGmgHTDAAADalwDv</rdf:li>
-     <rdf:li>0000a0410000b4420000c841</rdf:li>
-     <rdf:li>gz25eJwL5jMPYRjBgGmgHTDAAADalwDv</rdf:li>
-     <rdf:li>0000a0410000b4420000c841</rdf:li>
-     <rdf:li>gz22eJwL5jMP2Q/EDCMUMA20AwYYAACD7AJH</rdf:li>
+     <rdf:li>000000001f856b3f295c0f3e3333333fc217063f3d0abb41</rdf:li>
+     <rdf:li>gz23eJzz4TcPCQNihhEKmAbaAQMMAKl7Adk=</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -229,18 +217,12 @@
      <rdf:li>gz09eJxjZmBgkGAAgRNOLEAyxl4+BMxl6HJiwAka7CF4ZPEB35ka5A==</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz08eJxjZmBgkGAAgRNOLEAyxl4+BMQzNrZ1YsAJGuwheGTxAfr0Gv0=</rdf:li>
-     <rdf:li>gz10eJxjYGBgkGAAgRNOIDKUzzyEgSBosIfgkcUHANnxGfE=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz10eJxjYGBgkGAAgRNOIDKUzzyEgSBosIfgkcUHANnxGfE=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz10eJxjYGBgkGAAgRNOIDKUzzyEgSBosIfgkcUHANnxGfE=</rdf:li>
+     <rdf:li>gz10eJxjYGBgkGAAgRNOINKP3zyEgSBosIfgkcUHANNIGes=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -279,9 +261,6 @@
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -301,10 +280,7 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
+     <rdf:li/>
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
