@@ -716,9 +716,7 @@
     </rdf:Seq>
    </darktable:mask_src>
    <darktable:colorlabels>
-    <rdf:Seq>
-     <rdf:li>0</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
@@ -922,6 +920,7 @@
    </darktable:multi_name>
    <lr:hierarchicalSubject>
     <rdf:Seq>
+     <rdf:li>bokeh_swirl</rdf:li>
      <rdf:li>Rabac</rdf:li>
      <rdf:li>beach</rdf:li>
      <rdf:li>portrait</rdf:li>
@@ -933,6 +932,7 @@
    </lr:hierarchicalSubject>
    <dc:subject>
     <rdf:Seq>
+     <rdf:li>bokeh_swirl</rdf:li>
      <rdf:li>Rabac</rdf:li>
      <rdf:li>beach</rdf:li>
      <rdf:li>portrait</rdf:li>

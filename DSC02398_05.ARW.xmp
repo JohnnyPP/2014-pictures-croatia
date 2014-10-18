@@ -533,6 +533,7 @@
    </darktable:multi_name>
    <lr:hierarchicalSubject>
     <rdf:Seq>
+     <rdf:li>bokeh_swirl</rdf:li>
      <rdf:li>Rabac</rdf:li>
      <rdf:li>beach</rdf:li>
      <rdf:li>portrait</rdf:li>
@@ -544,6 +545,7 @@
    </lr:hierarchicalSubject>
    <dc:subject>
     <rdf:Seq>
+     <rdf:li>bokeh_swirl</rdf:li>
      <rdf:li>Rabac</rdf:li>
      <rdf:li>beach</rdf:li>
      <rdf:li>portrait</rdf:li>
