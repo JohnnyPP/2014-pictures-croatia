@@ -283,10 +283,28 @@
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Rabac</rdf:li>
+     <rdf:li>boat</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>landscape</rdf:li>
+     <rdf:li>lens_Samyang_8mm_f3.5</rdf:li>
+     <rdf:li>vacations_2014</rdf:li>
+     <rdf:li>Croatia</rdf:li>
+     <rdf:li>vacations</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Rabac</rdf:li>
+     <rdf:li>boat</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>landscape</rdf:li>
+     <rdf:li>lens_Samyang_8mm_f3.5</rdf:li>
+     <rdf:li>vacations_2014</rdf:li>
+     <rdf:li>Croatia</rdf:li>
+     <rdf:li>vacations</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>
